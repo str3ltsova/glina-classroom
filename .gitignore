@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+playwright-report/
+test-results/
+.verification/
+*.tsbuildinfo
+next-env.d.ts
+.env*
+!.env.example
+.DS_Store
+.claude/
+.codex/
+*.pem
+*.key
+*.session
